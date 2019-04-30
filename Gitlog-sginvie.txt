@@ -1,0 +1,13 @@
+*   a50a8b8 - (9 seconds ago) merging newdesign - Sergio Guerrero (HEAD -> master)
+|\
+| * 36ca05f - (57 minutes ago) new design - Sergio Guerrero (newdesign)
+* |   fa6020d - (5 minutes ago) Merge branch 'responsive' - Sergio Guerrero
+|\ \
+| * | 228daac - (8 minutes ago) finalizando responsive design - Sergio Guerrero (responsive)
+| |/
+* | 48e895d - (64 minutes ago) hotfix - Sergio Guerrero (hotfix)
+|/
+* 43e1f14 - (2 hours ago) agregando footer y solucionando palabras extra - Sergio Guerrero
+* cbb7b63 - (2 hours ago) agregando guitarras acustica/clasica y fondo negro - Sergio Guerrero
+* 83a4f40 - (2 hours ago) agregando Hero - Sergio Guerrero
+* 9d7d74e - (2 hours ago) agregando header - Sergio Guerrero
