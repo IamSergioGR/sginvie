@@ -21,24 +21,43 @@
         margin: 0;
 
     }
-    
+
+    img#responsive{
+        display:none;
+    }
+
+    @media screen and (max-width: 768px){
+        img#clasic{
+            display: none;
+        }
+        img#responsive{
+            display: flex;
+            width: 100%;
+            
+        }
+
+    }
     </style>
 </head>
 <body>
-    <div>
-        <img src="img/header.jpg" alt="header">
+    <div >
+
+        <img src="img/responsive.png" alt="responsive" id="responsive">
     </div>
     <div>
-        <img src="img/Hero.png" alt="hero">
+        <img src="img/header.jpg" alt="header" id="clasic">
     </div>
     <div>
-        <img src="img/acustica.PNG" alt="acustica">
+        <img src="img/Hero.png" alt="hero" id="clasic">
     </div>
     <div>
-        <img src="img/clasica.jpg" alt="clasica">
+        <img src="img/acustica.PNG" alt="acustica" id="clasic">
     </div>
     <div>
-        <img src="img/footer.jpg" alt="footer">
+        <img src="img/clasica.jpg" alt="clasica" id="clasic">
+    </div>
+    <div>
+        <img src="img/footer.jpg" alt="footer" id="clasic">
     </div>
 </body>
 </html>
